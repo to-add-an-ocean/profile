@@ -26,8 +26,8 @@ author:
   avatar           : "/images/profile_pic.jpg"
   name             : "Tianyang Cui"
   pronouns         : "he/him"  
-  bio              : "x"
-  location         : # "Glasgow"
+  bio              : # ""
+  location         : # ""
   employer         : "University of Glasgow"
   uri              : # URL
   email            : "3136606C@student.gla.ac.uk" 
