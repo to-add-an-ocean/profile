@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * MSc in Astrophysics, University of Glasgow, 2025-2026
