@@ -25,20 +25,20 @@ author:
   # Biographic information
   avatar           : "profile_pic.jpg"
   name             : "Tianyang Cui"
-  pronouns         : # "he/him"  
+  pronouns         : # ""
   bio              : # ""
   location         : # ""
-  employer         : # "University of Glasgow"
+  employer         : "University of Glasgow"
   uri              : # URL
   email            : # "3136606C@student.gla.ac.uk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -51,9 +51,9 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : # "to-add-an-ocean"
-  kaggle           : # Username  
-  stackoverflow    : # Usernumber  
+  github           : # Username
+  kaggle           : # Username
+  stackoverflow    : # Username
 
   # Social media
   artstation       : # Username
