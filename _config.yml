@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile_pic.jpg"
   name             : "Tianyang Cui"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : # ""
   location         : # ""
-  employer         : "University of Glasgow"
+  employer         : # "University of Glasgow"
   uri              : # URL
-  email            : "3136606C@student.gla.ac.uk" 
+  email            : # "3136606C@student.gla.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "to-add-an-ocean"
   kaggle           : # Username  
   stackoverflow    : # Usernumber  
 
