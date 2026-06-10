@@ -16,7 +16,3 @@ redirect_from:
 
 **Visiting Researcher, Australian National University, 2024-2025**
 * Research: stellar ages and dynamical substructures in the Galactic halo
-
-<div class="cv-download-links">
-  <a href="/files/paper1.pdf" class="btn btn--primary">Full CV</a>
-</div>
