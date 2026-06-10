@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+
 Hello!
 
 I am an MSc student in Astrophysics at the University of Glasgow.
