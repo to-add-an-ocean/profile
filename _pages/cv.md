@@ -10,6 +10,7 @@ redirect_from:
 ## Education
 
 - MSc in Astrophysics, University of Glasgow, 2025-2026
+  - Grade: 20.25/22
   - Research: model selection to investigate gravitational wave source distributions
 
 - Visiting Researcher, Australian National University, 2024-2025
