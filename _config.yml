@@ -28,9 +28,9 @@ author:
   pronouns         : # ""
   bio              : # ""
   location         : # ""
-  employer         : # "University of Glasgow"
+  employer         : # ""
   uri              : # URL
-  email            : # "3136606C@student.gla.ac.uk" 
+  email            : # "" 
 
   # Academic websites
   academia         : # URL
