@@ -17,5 +17,5 @@ redirect_from:
 
 - BSc in Astronomy, Nanjing University, 2021-2025
   - Grade: 86/100
-  - Scholarship: Outstanding Student in Basic Sciences (2023), The People’s Scholarship (2023, 2024)
+  - Awards: Outstanding Student in Basic Science (2023), The People’s Scholarship (2023, 2024)
   - Research: exoplanet, X-ray binary, asteroseismology, Galactic archaeology
