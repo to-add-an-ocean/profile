@@ -19,6 +19,5 @@ redirect_from:
   - Research: stellar ages and dynamical substructures in the Galactic halo
 
 - BSc in Astronomy, Nanjing University, 2021-2025
-  - Grade: 86/100
   - Awards: Outstanding Student in Basic Science (2023), The People’s Scholarship (2023, 2024)
-  - Research: exoplanet, X-ray binary, asteroseismology, Galactic archaeology
+  - Research: exoplanets, X-ray binaries, asteroseismology, Galactic archaeology
