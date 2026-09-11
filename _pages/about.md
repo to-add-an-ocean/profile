@@ -9,6 +9,10 @@ redirect_from:
 
 Hello!
 
-I am an MSc student in astrophysics at the University of Glasgow.
+I am a PhD student at the Institute for Gravitational Research, University of Glasgow. My research mainly focuses on multi-messenger astronomy.
 
-Previously, I received my Bachelor's degree in astronomy at Nanjing University. During my undergraduate studies, I conducted research in several areas of astronomy, including exoplanet, X-ray binary, asteroseismology, and Galactic archaeology. Through these projects, I had the opportunity to work with researchers from Nanjing University, Purple Mountain Observatory, Australian National University, and INAF Torino. I also spent four months as a visiting researcher at the Australian National University.
+Previously, I obtained my master’s degree in astrophysics from the University of Glasgow, where I began my research in gravitational waves. Before that, I completed my bachelor’s degree in astronomy at Nanjing University. During my undergraduate studies, I conducted research in several areas of astronomy, including exoplanets, X-ray binaries, asteroseismology, and Galactic archaeology. These projects gave me the opportunity to work with researchers at Nanjing University, Purple Mountain Observatory, Australian National University, and INAF Torino. I also spent four months as a visiting researcher at the Australian National University.
+
+---
+
+Last updated: September 2026
