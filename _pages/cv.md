@@ -9,8 +9,11 @@ redirect_from:
 
 ## Education
 
+- PhD in Physics & Astronomy, University of Glasgow, 2026-Present
+  - Research: multi-messenger astronomy
+
 - MSc in Astrophysics, University of Glasgow, 2025-2026
-  - Research: model selection to investigate gravitational wave source distributions
+  - Research: searching for a gravitational-wave population of astrophysical origin
 
 - Visiting Researcher, Australian National University, 2024-2025
   - Research: stellar ages and dynamical substructures in the Galactic halo
