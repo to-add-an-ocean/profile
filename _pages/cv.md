@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-- PhD in Physics & Astronomy, University of Glasgow, 2026-Present
+- PhD in Astronomy, University of Glasgow, 2026-Present
   - Research: multi-messenger astronomy
 
 - MSc in Astrophysics, University of Glasgow, 2025-2026
